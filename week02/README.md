@@ -2,10 +2,10 @@
 
 2주차 이동 과제 
 
-1) 오브젝트 이미지
+<h3>1) 오브젝트 이미지</h3>
    <img width="2879" height="1625" alt="스크린샷 2026-05-17 192218" src="https://github.com/user-attachments/assets/e5b22210-3e9b-4517-86e9-7a1ee7ceaa47" />
 
-2) 실행 장면
+<h3>2) 실행 장면</h3>
 
 https://github.com/user-attachments/assets/a17b3155-b1c1-4482-a2c2-973570000b68
 
