@@ -1,7 +1,4 @@
 
-https://github.com/user-attachments/assets/f6966aa4-f9af-4fd3-b8b8-b1265a9001e6
-
-https://github.com/user-attachments/assets/3352d126-9cd6-4a01-bd15-a0b0bae927fc
 
 2주차 이동 과제 
 
