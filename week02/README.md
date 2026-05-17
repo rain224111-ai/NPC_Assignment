@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/86a043ec-d4cf-4100-824c-76cb80eaba3f
 2주차 이동 과제 
 
 1) 오브젝트 이미지
